@@ -1,6 +1,5 @@
 # Slot-Machine-C-
 
-![Slot Machine](slot_machine_image.png)
 
 Welcome to the Slot Machine Game! This simple C++ console application allows you to enjoy the excitement of a virtual slot machine without leaving your computer.
 
